@@ -59,7 +59,7 @@ The SQL scripts provide detailed insights into patient demographics, cardiac fun
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/healthcare-sql-analysis.git
+   git clone https://github.com/ramyakalyan/healthcare-sql-analysis.git
 
 ## Insights Derived
 
